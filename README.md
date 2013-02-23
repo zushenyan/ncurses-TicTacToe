@@ -7,8 +7,8 @@ It can be ran on the unix-like OS expect Windows.
 ## Where is the execution file?
 `cd` to directory which contains these files and type `make`.
 
-> username$ cd ncurses-TicTacToe
-> username$ make
+    username$ cd ncurses-TicTacToe
+    username$ make
 
 system will do the job for you.
 
