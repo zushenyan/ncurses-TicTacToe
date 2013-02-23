@@ -2,7 +2,7 @@
 Tic Tac Toe game with ncurses library.
 
 ## About platform
-It can be ran on the unix-like OS expect Windows.
+It can be ran on any unix-like OS except Windows.
 
 ## Where is the execution file?
 `cd` to directory which contains these files and type `make`.
